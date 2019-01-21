@@ -1,7 +1,7 @@
 package by.bsu.kozlov.handler;
 
-import by.bsu.kozlov.IncorrectInputException;
 import by.bsu.kozlov.converter.IConvert;
+import by.bsu.kozlov.exception.IncorrectInputException;
 import by.bsu.kozlov.utils.ChainOfResponsibility;
 import by.bsu.kozlov.utils.ConverterUtil;
 import org.springframework.stereotype.Service;

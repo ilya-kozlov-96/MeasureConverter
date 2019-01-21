@@ -1,8 +1,8 @@
 package by.bsu.kozlov.converter.impl;
 
-import by.bsu.kozlov.IncorrectInputException;
 import by.bsu.kozlov.converter.IConvert;
 import by.bsu.kozlov.entity.Measures;
+import by.bsu.kozlov.exception.IncorrectInputException;
 
 public class ConvertTemperature implements IConvert {
 
